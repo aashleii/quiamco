@@ -71,8 +71,6 @@ C:\fiona\ashley\obj\Debug\net10.0\compressed\l4vfvbnw3b-{0}-0j3bgjxly4-0j3bgjxly
 C:\fiona\ashley\obj\Debug\net10.0\compressed\7c3c4mbgoy-{0}-abdmv1u4y3-abdmv1u4y3.gz
 C:\fiona\ashley\obj\Debug\net10.0\compressed\2y9kikqg3y-{0}-ax6tuj8tun-ax6tuj8tun.gz
 C:\fiona\ashley\obj\Debug\net10.0\compressed\mmjneq5xa4-{0}-zr4b1gdhaw-zr4b1gdhaw.gz
-C:\fiona\ashley\obj\Debug\net10.0\compressed\krbcyypkjc-{0}-dwl1wxkup7-dwl1wxkup7.gz
-C:\fiona\ashley\obj\Debug\net10.0\compressed\0jgrbi75cj-{0}-dwl1wxkup7-dwl1wxkup7.gz
 C:\fiona\ashley\obj\Debug\net10.0\staticwebassets.build.json
 C:\fiona\ashley\obj\Debug\net10.0\staticwebassets.build.json.cache
 C:\fiona\ashley\obj\Debug\net10.0\staticwebassets.development.json
@@ -83,3 +81,7 @@ C:\fiona\ashley\obj\Debug\net10.0\refint\ashley.dll
 C:\fiona\ashley\obj\Debug\net10.0\ashley.pdb
 C:\fiona\ashley\obj\Debug\net10.0\ashley.genruntimeconfig.cache
 C:\fiona\ashley\obj\Debug\net10.0\ref\ashley.dll
+C:\fiona\ashley\obj\Debug\net10.0\ashley.sourcelink.json
+C:\fiona\ashley\obj\Debug\net10.0\scopedcss\Components\Pages\home.razor.rz.scp.css
+C:\fiona\ashley\obj\Debug\net10.0\compressed\krbcyypkjc-{0}-pw19lpzjyi-pw19lpzjyi.gz
+C:\fiona\ashley\obj\Debug\net10.0\compressed\0jgrbi75cj-{0}-pw19lpzjyi-pw19lpzjyi.gz

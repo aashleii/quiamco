@@ -361,3 +361,49 @@ main[b-59jey6pah3] {
         opacity: 0;
     }
 }
+/* /Components/Pages/home.razor.rz.scp.css */
+.portfolio-container[b-hnswfq5ej8] {
+    padding: 30px;
+    max-width: 900px;
+    margin: auto;
+}
+
+.card[b-hnswfq5ej8] {
+    background: #2f3e4e;
+    color: #f5f5f5;
+    padding: 25px;
+    border-radius: 14px;
+    margin-bottom: 20px;
+    box-shadow: 0 6px 15px rgba(0,0,0,0.2);
+}
+
+.profile-card[b-hnswfq5ej8] {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+
+.profile-photo img[b-hnswfq5ej8] {
+    width: 140px;
+    height: 140px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 3px solid #d1d5db;
+}
+
+.profile-text h2[b-hnswfq5ej8] {
+    margin-bottom: 10px;
+}
+
+.profile-text p[b-hnswfq5ej8] {
+    margin: 6px 0;
+}
+
+ul[b-hnswfq5ej8] {
+    padding-left: 20px;
+}
+
+.quote[b-hnswfq5ej8] {
+    font-style: italic;
+    opacity: 0.9;
+}
